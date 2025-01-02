@@ -4,7 +4,6 @@
 
 # 💫 About Me:
 
-Here are some ideas to get you started:
 
 - 🔭 Currently working with Flutter
 - 🌱 Learning Backend Development
@@ -12,3 +11,4 @@ Here are some ideas to get you started:
 - 📫 Reach me at: Adreesking975@gmail.com
 - 😄 Check out my work: Projects
   
+## 🌐 Connect with Me:
