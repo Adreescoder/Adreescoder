@@ -14,3 +14,13 @@
 ## 🌐 Connect with Me:
 03296824355
 
+## 💻 Tech Stack:
+Flutter • Dart • Firebase • Figma • Postman  
+
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdreesCoder&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdreesCoder&theme=radical)  
+
+## 🌍 Open Source Contributor from Pakistan 💚
+
+
