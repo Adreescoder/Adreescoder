@@ -11,7 +11,10 @@ I'm a **dedicated Flutter developer** with a passion for building **beautiful, s
 ✔️ Design **pixel-perfect UI/UX with animations**  
 ✔️ Integrate **REST APIs, GraphQL, and third-party services**  
 ✔️ Optimize apps for **performance, responsiveness, and smooth user experience**  
-✔️ Deploy apps on **Play Store, App Store, and Web**  
+✔️ Deploy apps on **Play Store, App Store, and Web**  ![Uploading 
+
+68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966.gif…]()
+
 
 ---
 
